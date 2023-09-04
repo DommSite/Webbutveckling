@@ -39,7 +39,10 @@ h1{
     max-width: 50%;
     max-height: auto;
 }
-
+.hotdog{
+    max-width: 5%;
+    max-height: auto;
+}
 .länk{
     text-decoration: none;
     color: inherit;
